@@ -1,0 +1,9 @@
+*.log
+render_file
+template_file
+second_template_file
+ts*run
+.*.status
+.settings
+ganja_crop
+scissors
