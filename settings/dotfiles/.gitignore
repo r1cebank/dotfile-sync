@@ -1,0 +1,4 @@
+# Ignore junk files from git by default
+.DS_Store
+*~
+*.swp
