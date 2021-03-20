@@ -1,4 +1,0 @@
-[/]
-current=uint32 0
-sources=[('xkb', 'us')]
-xkb-options=@as []

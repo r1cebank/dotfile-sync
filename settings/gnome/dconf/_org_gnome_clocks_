@@ -1,7 +1,0 @@
-[/]
-world-clocks=[{'location': <(uint32 2, <('Fort Myers', 'KFMY', true, [(0.46398124305002342, -1.4287701589138577)], [(0.46496667339899189, -1.4289413408068936)])>)>}, {'location': <(uint32 2, <('Beijing', 'ZBAA', false, [(0.69696814214530467, 2.0295270260429752)], @a(dd) [])>)>}]
-
-[state/window]
-panel-id='world'
-size=(901, 690)
-state=87168

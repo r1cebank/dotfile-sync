@@ -2,3 +2,6 @@
 .gitconfig
 .xprofile
 .zshrc
+.vimrc
+.xprofile
+.tmux.conf
