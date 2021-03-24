@@ -25,6 +25,12 @@ function app_setting_run() {
     else
         log_info "Did not find npm, skipping..."
     fi
+    if hash tlp >/dev/null 2>&1; then
+        mkdir -p ./settings/tlp
+        cp /etc/default/tlp ./settings/tlp
+    else
+        log_info "Did not find tlp, skipping..."
+    fi
   else
     log_warning "Unsupported OS"
   fi
